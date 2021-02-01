@@ -1,1 +1,1 @@
-# next.js-sample
+# nextjs-sample
